@@ -9,6 +9,8 @@ Here I cronicle all the steps I went through while learning how to deploy Kubern
 
 This is the plan, as of now:
 
+Chapter 0, prerequisites. We will use virtualbox and vagrant.
+
 Chapter 1, the underlying infrastructure. Here we will deploy a coreos cluster and we'll get familiar with some of the features.
 
 Chapter 2, the base kubernetes cluster. We setup a very simple kubernetes cluster, using only unauthenticated HTTP for communication.
